@@ -8,7 +8,7 @@ footer{
 }
 html
 {
-    background-image:url("hell.jpg");
+    background-image:url("./hell.jpg");
     background-repeat:no-repeat;
     background-position:center;
     background-size:cover;
