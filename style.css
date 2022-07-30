@@ -1,0 +1,109 @@
+
+
+#footer{
+    padding: 40px 0;
+    text-align:center;
+
+}
+footer{
+    margin:auto;
+}
+html
+{
+    background-image:url("hell.jpg");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    background-attachment:fixed;
+    
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    background-color:;
+
+}
+li a{
+    float: left;
+    display: black;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration:none;
+    border-right: 1px solid black;
+    min-width: 60px;
+}
+
+li a:hover{
+    background-color: #222222;
+
+}
+
+form{
+    font-family:'Josefin Sans';
+    font-style:bold;
+    font-weight:bold;
+    font-size: 25px;
+    color:indianred;
+text-decoration:wavy blue;
+
+
+}
+button:hover{
+    background-color:black;
+    color:white;
+}
+h1{
+    border:2px solid;
+    width: 350px;
+    padding: 25px;
+
+    position: relative;
+    
+    margin: auto;
+
+    /*background: linear-gradient(purple, blue,black);*/
+    font-family:'Josefin Sans';
+    color:cornsilk;
+    text-shadow: 0px 0px 5px yellowgreen, 0px -8px 10px red;
+    box-shadow: 10px 10px 5px yellow;
+} 
+
+h2{
+    font-family:'Josefin Sans';
+    color:cornsilk;
+    text-shadow: 0px 0px 5px yellowgreen, 0px 0px 5px whitesmoke;
+    
+}
+h3{
+    font-family:'Josefin Sans';
+    color:whitesmoke;
+    text-shadow: 0px 0px 1px yellowgreen, 0px 0px 1px whitesmoke;
+}
+
+h1{
+    border-top-style:dotted;
+    border-bottom-style:dotted;
+    border-left-style:solid;
+    border-left-width:10px;
+    border-left-color:rgb(236, 236, 111);
+    border-right-color:rgb(236, 236, 111);
+   border-right-width:10px;
+}
+h2{
+    padding: 5px;
+    border-style: solid;
+    border-style: dashed;
+    border-style: dotted;
+    border-style: double;
+    border-style: ridge;
+    border-style: groove;
+    border-style: inset;
+    border-style: outset;
+    border-width: 3px;
+    border-color:aquamarine;
+     border-radius: 20px;   
+
+}
